@@ -1,6 +1,7 @@
 # i_am_rich
 
-A new Flutter project.
+This lesson teaches the basics of the Scaffold and changing background color.
+Adding pictures and so on.
 
 ## Getting Started
 
